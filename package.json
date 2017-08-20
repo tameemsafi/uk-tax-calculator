@@ -1,8 +1,8 @@
 {
-  "name": "calculator",
-  "version": "1.0.0",
+  "name": "uk-tax-calculator",
+  "version": "1.0.1",
   "main": "./dist/tax-calculator.js",
-  "license": "MIT",
+  "license": "GNU v3",
   "scripts": {
     "build": "webpack"
   },
