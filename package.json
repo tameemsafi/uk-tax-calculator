@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "main": "./dist/tax-calculator.js",
   "license": "GNU v3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tameemsafi/uk-tax-calculator"
+  },
   "scripts": {
     "build": "webpack"
   },
