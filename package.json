@@ -1,6 +1,6 @@
 {
   "name": "uk-tax-calculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./dist/tax-calculator.js",
   "license": "GNU v3",
   "repository": {

@@ -1,4 +1,4 @@
-# UK Tax Calculator (2017/18)
+# UK Tax Calculator (2019/20)
 
 This package allows you to calculate UK income tax. It also gives you a detailed breakdown of each part of the tax calculations.
 
