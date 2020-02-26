@@ -102,54 +102,55 @@ console.log(
 );
 ```
 
+
 Returns
 ```javascript
 {
-    netIncome: {
-        yearly: 42576.32,
-        monthly: 3548.03,
-        weekly: 818.78,
-        daily: 116.65
+    "netIncome":{
+        "yearly":42576.32,
+        "monthly":3548.03,
+        "weekly":818.78,
+        "daily":116.65
     },
-    personalAllowance: 11500,
-    paye: {
-        rate_0: {
-            tax: 0,
-            carry: 48500
+    "personalAllowance":11500,
+    "paye":{
+        "rate_0":{
+            "tax":0,
+            "carry":48500
         },
-        rate_20: {
-            tax: 6700,
-            carry: 15000
+        "rate_20":{
+            "tax":6700,
+            "carry":15000
         },
-        rate_40: {
-            tax: 6000,
-            carry: 0
+        "rate_40":{
+            "tax":6000,
+            "carry":0
         },
-        rate_45: {
-            tax: 0,
-            carry: 0
+        "rate_45":{
+            "tax":0,
+            "carry":0
         }
     },
-    nationalInsurance: {
-        rate_0: {
-            tax: 0,
-            carry: 996.8499999999999
+    "nationalInsurance":{
+        "rate_0":{
+            "tax":0,
+            "carry":996.8499999999999
         },
-        rate_12: {
-            tax: 85.08,
-            carry: 287.8499999999999
+        "rate_12":{
+            "tax":85.08,
+            "carry":287.8499999999999
         },
-        rate_2: {
-            tax: 5.76,
-            carry: 0
+        "rate_2":{
+            "tax":5.76,
+            "carry":0
         }
-    },
-    studentLoan: {
-        plan: 'NO_PLAN',
-        threshold: 0,
-        rate: 0,
-        repayment: 0
-    }
+   },
+   "studentLoan":{
+        "plan":"NO_PLAN",
+        "threshold":0,
+        "rate":0,
+        "repayment":0
+   }
 }
 ```
 
